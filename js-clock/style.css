@@ -1,0 +1,18 @@
+@font-face {
+    src: url("GoodDog.otf");
+    font-family: 'GoodDog';
+    font-weight: lighter;
+}
+span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /*text-align: center;*/
+    font-family: 'Patrick Hand',cursive;
+    font-size: 110px;
+    color: #00a3ff;
+}
+body {
+    background-color: #ffed00;
+}
